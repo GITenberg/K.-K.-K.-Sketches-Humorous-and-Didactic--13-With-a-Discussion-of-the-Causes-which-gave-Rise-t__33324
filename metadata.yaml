@@ -1,0 +1,26 @@
+_repo: K.-K.-K.-Sketches-Humorous-and-Didactic--13-With-a-Discussion-of-the-Causes-which-gave-Rise-t__33324
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beard, James Melville
+    gutenberg_agent_id: '36334'
+    url: http://www.gutenberg.org/2009/agents/36334
+description: ''
+gutenberg_issued: '2010-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ku Klux Klan (19th century)'
+- !lcc 'E660'
+title: "K. K. K. Sketches, Humorous and Didactic\r\nTreating the More Important Events\
+  \ of the Ku-Klux-Klan Movement in the South.\r\nWith a Discussion of the Causes\
+  \ which gave Rise to it, and the Social and Political Issues Emanating from it."
+url: http://www.gutenberg.org/ebooks/33324

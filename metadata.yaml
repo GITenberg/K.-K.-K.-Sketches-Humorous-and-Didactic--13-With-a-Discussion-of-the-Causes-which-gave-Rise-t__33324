@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36334'
     url: http://www.gutenberg.org/2009/agents/36334
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33324#K.-K.-K.-Sketches-Humorous-and-Didactic--13-With-a-Discussion-of-the-Causes-which-gave-Rise-t_
 gutenberg_issued: '2010-08-02'
 gutenberg_type: Text
 identifiers:
